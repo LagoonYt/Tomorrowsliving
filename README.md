@@ -54,3 +54,34 @@ As we continue to develop Tomorrowsliving, our focus is on enhancing the platfor
 
 Our goal is to make Tomorrowsliving a versatile and comprehensive server management tool that caters to a wide array of gaming communities. Stay tuned for updates as we progress through our roadmap!
 
+## Contributing 👥
+
+Tomorrowsliving is currently a passion project developed by a sole enthusiast with a vision to create a user-friendly, customizable server management tool. As this project grows, the need for diverse ideas, skills, and contributions becomes ever more important.
+
+### How You Can Contribute
+
+We are excited to work alongside others who are interested in enhancing Tomorrowsliving. Whether you're a developer, a designer, or simply someone with great ideas, your contributions are welcome. Here are a few ways you can contribute:
+
+- **Code Contributions:** If you have the technical skills, feel free to fork the repository, make your changes, and submit a pull request. We're looking for contributions that improve the codebase, add new features, or fix bugs.
+
+- **Bug Reporting:** Encounter a bug? Please report it using the Issues tab in our GitHub repository. Provide a detailed description of the issue, including steps to reproduce it, and, if possible, suggestions for how it might be fixed.
+
+- **Feature Suggestions:** Have ideas for new features or improvements? We'd love to hear them. Open an issue to describe your suggestion, explaining how it would benefit users and the project overall.
+
+- **Documentation:** Help us improve our documentation, whether it's fixing typos, clarifying instructions, or writing tutorials. Good documentation is key to a project's success.
+
+### Getting Started
+
+1. **Fork the Repository:** Start by forking the repository to your own GitHub account.
+2. **Clone Your Fork:** Work on your changes in your local development environment.
+3. **Create a Pull Request:** Once you're ready, submit a pull request. Include a clear description of your changes and any other relevant information.
+
+### Collaboration and Respect
+
+Collaboration is at the heart of open source. We aim to create a welcoming environment for everyone interested in contributing. We expect all contributors to respect each other, offer constructive feedback, and help make Tomorrowsliving a positive project for everyone involved.
+
+### Join Us
+
+If you're passionate about server management tools and want to contribute to a project that values user-friendliness and customization, Tomorrowsliving is the perfect place for you. Together, we can build something amazing.
+
+We look forward to working alongside you!
