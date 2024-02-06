@@ -86,6 +86,12 @@ If you're passionate about server management tools and want to contribute to a p
 
 We look forward to working alongside you!
 
+## License 📄
+
+Tomorrowsliving is licensed under the GNU General Public License version 3 (GPL-v3). This ensures that the software and all derivative works are free and remain open-source, promoting a community of sharing and improvement.
+
+For more details, see the [LICENSE](LICENSE) file in the project repository.
+
 ## Contact 📧
 
 If you have any questions, suggestions, or simply want to discuss Tomorrowsliving, we're open to hearing from you. Here are the best ways to get in touch:
@@ -94,7 +100,7 @@ If you have any questions, suggestions, or simply want to discuss Tomorrowslivin
 
 - **Discord:** Join our Discord server for more real-time interactions with the community and the developer. [Insert Discord invite link here]
 
-- **GitHub:** For technical issues, feature requests, or contributions, the GitHub repository is the best place. Feel free to open an issue or a pull request. Visit our [GitHub repository](Insert your GitHub repository URL here).
+- **GitHub:** For technical issues, feature requests, or contributions, the GitHub repository is the best place. Feel free to open an issue or a pull request. Visit our [GitHub repository]([Insert your GitHub repository URL here](https://github.com/LagoonYt/Tomorrowsliving/tree/main)).
 
 We're dedicated to making Tomorrowsliving the best tool it can be, and your feedback or contributions are invaluable to us. Don't hesitate to reach out!
 
