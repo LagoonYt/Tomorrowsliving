@@ -96,7 +96,7 @@ For more details, see the [LICENSE](LICENSE) file in the project repository.
 
 If you have any questions, suggestions, or simply want to discuss Tomorrowsliving, we're open to hearing from you. Here are the best ways to get in touch:
 
-- **Email:** For direct inquiries or detailed discussions, feel free to send an email. [lloydkay@tomorrowsliving.com]
+- **Email:** For direct inquiries or detailed discussions, feel free to send an email. lloydkay@tomorrowsliving.com
 
 - **Discord:** Join our Discord server for more real-time interactions with the community and the developer. [Insert Discord invite link here]
 
