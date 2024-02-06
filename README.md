@@ -100,7 +100,7 @@ If you have any questions, suggestions, or simply want to discuss Tomorrowslivin
 
 - **Discord:** Join our Discord server for more real-time interactions with the community and the developer. [Insert Discord invite link here]
 
-- **GitHub:** For technical issues, feature requests, or contributions, the GitHub repository is the best place. Feel free to open an issue or a pull request. Visit our [GitHub repository]([Insert your GitHub repository URL here](https://github.com/LagoonYt/Tomorrowsliving/tree/main)).
+- **GitHub:** For technical issues, feature requests, or contributions, the GitHub repository is the best place. Feel free to open an issue or a pull request. Visit our [GitHub repository](https://github.com/LagoonYt/Tomorrowsliving/tree/main).
 
 We're dedicated to making Tomorrowsliving the best tool it can be, and your feedback or contributions are invaluable to us. Don't hesitate to reach out!
 
