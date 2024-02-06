@@ -12,7 +12,7 @@ Tomorrowsliving is a server management tool designed with a focus on user-friend
 - **Customization:** Highly customizable to fit various needs. ⚙️
 - **Game Support:** Initial support for Arma 3 and Minecraft, with more to come. 🎮
 
-## Usage💡
+## Usage💡 // Unfinnished, soon we will release an executable file and instructions on how to download!
 
 To get started with Tomorrowsliving, follow these simple steps in the **Server Controls** section, designed for optimal user experience:
 
@@ -85,3 +85,16 @@ Collaboration is at the heart of open source. We aim to create a welcoming envir
 If you're passionate about server management tools and want to contribute to a project that values user-friendliness and customization, Tomorrowsliving is the perfect place for you. Together, we can build something amazing.
 
 We look forward to working alongside you!
+
+## Contact 📧
+
+If you have any questions, suggestions, or simply want to discuss Tomorrowsliving, we're open to hearing from you. Here are the best ways to get in touch:
+
+- **Email:** For direct inquiries or detailed discussions, feel free to send an email. [lloydkay@tomorrowsliving.com]
+
+- **Discord:** Join our Discord server for more real-time interactions with the community and the developer. [Insert Discord invite link here]
+
+- **GitHub:** For technical issues, feature requests, or contributions, the GitHub repository is the best place. Feel free to open an issue or a pull request. Visit our [GitHub repository](Insert your GitHub repository URL here).
+
+We're dedicated to making Tomorrowsliving the best tool it can be, and your feedback or contributions are invaluable to us. Don't hesitate to reach out!
+
