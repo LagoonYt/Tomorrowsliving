@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta information and stylesheets -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <title>Tomorrowsliving</title>
+    <script>
+        // Function to get URL parameters
+        function getQueryParam(param) {
+            var searchParams = new URLSearchParams(window.location.search);
+            return searchParams.get(param);
+        }
+
+        // Function to update links with the server name
+        function updateLinks() {
+            var serverName = getQueryParam('serverName');
+            if (serverName) {
+                var links = document.querySelectorAll('nav a');
+                links.forEach(function(link) {
+                    var href = link.getAttribute('href');
+                    if (href) {
+                        var delimiter = href.includes('?') ? '&' : '?';
+                        link.href += delimiter + 'serverName=' + encodeURIComponent(serverName);
+                    }
+                });
+            }
+        }
+
+        // Call updateLinks on page load
+        document.addEventListener('DOMContentLoaded', updateLinks);
+    </script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="container-fluid">
+        <ul>
+            <li><strong><a href="../Home.html">Tomorrowsliving</a></strong></li>
+        </ul>
+        <ul>
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./settings.html">Server Settings</a></li>
+            <li><a href="./controls.html">Server Controls</a></li>
+            <li><a href="./rules.html">Server Rules</a></li>
+            <li><a href="./modes.html">Game Modes</a></li>
+            <li><a href="./mods.html">Mods</a></li>
+            <li><a href="./moderation.html">Moderation</a></li>
+         
+        </ul>
+    </nav>
+    <!-- Main content -->
+    <main class="container">
+        <div class="grid">
+            <section id="intro">
+                <hgroup>
+                    <h2>Tomorrowsliving</h2>
+                    <h3>Effortlessly Create and Manage Your Servers</h3>
+                </hgroup>
+                <p>Create custom Arma 3 servers with ease. Adjust settings, select your preferred game modes, add mods, and monitor your server's performance in real-time.</p>
+                <!-- <figure>
+                    <img src="https://unsplash.com/photos/your-photo-id" alt="Arma 3 Gameplay" />
+                    <figcaption>Experience the ultimate Arma 3 gameplay</figcaption>
+                </figure> -->
+            </section>
+            <!-- Additional sections for Server Settings, Rules, Modes, Mods, Moderation, and Hardware Tracking can be added here following the same structure -->
+        </div>
+    </main>
+    <!-- Subscription section -->
+    <section aria-label="Subscribe for Updates">
+        <div class="container">
+            <article>
+                <hgroup>
+                    <h2>Stay Updated</h2>
+                    <h3>Subscribe for the latest server updates and news</h3>
+                </hgroup>
+                <form class="grid">
+                    <input type="text" id="firstname" name="firstname" placeholder="Your Name" aria-label="Your Name" required />
+                    <input type="email" id="email" name="email" placeholder="Your Email" aria-label="Your Email" required />
+                    <button type="submit" onclick="event.preventDefault()">Subscribe</button>
+                </form>
+            </article>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer class="container">
+        <small>
+            <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a>
+        </small>
+    </footer>
+</body>
+</html>
