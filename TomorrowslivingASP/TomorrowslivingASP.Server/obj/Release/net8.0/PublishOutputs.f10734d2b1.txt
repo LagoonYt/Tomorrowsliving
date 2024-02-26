@@ -1,0 +1,15 @@
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\TomorrowslivingASP.Server.exe
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\TomorrowslivingASP.Server.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\TomorrowslivingASP.Server.deps.json
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\TomorrowslivingASP.Server.runtimeconfig.json
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\TomorrowslivingASP.Server.pdb
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lloyd\source\repos\TomorrowslivingASP\TomorrowslivingASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|c:\\users\\lloyd\\source\\repos\\tomorrowslivingasp\\tomorrowslivingasp.client\\arma3\\settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\settings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\settings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\rules.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\rules.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\mods.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\mods.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\mods.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\mods.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\controls.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\controls.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\moderation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\moderation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\modes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\modes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\rules.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\rules.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\moderation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\moderation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\arma3\\modes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48EFC3A8-2608-4151-852D-5D352F6C6E8E}|tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj|solutionrelative:tomorrowslivingasp.client\\arma3\\modes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\settings.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\settings.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\settings.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\settings.html",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:39:06.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.css",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\settings.css",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\settings.css",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\settings.css",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\settings.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T13:37:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rules.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\rules.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\rules.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\rules.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\rules.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:38:56.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mods.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\mods.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\mods.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\mods.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\mods.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:38:37.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "modes.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\modes.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\modes.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\modes.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\modes.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:38:27.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "moderation.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\moderation.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\moderation.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\moderation.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\moderation.html",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:38:15.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "controls.html",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\controls.html",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\controls.html",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\controls.html",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\controls.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T13:37:30.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rules.css",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\rules.css",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\rules.css",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\rules.css",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\rules.css",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T13:37:09.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mods.css",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\mods.css",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\mods.css",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\mods.css",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\mods.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T13:37:05.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "modes.css",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\modes.css",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\modes.css",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\modes.css",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\modes.css",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T13:37:01.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "moderation.css",
+              "DocumentMoniker": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\moderation.css",
+              "RelativeDocumentMoniker": "tomorrowslivingasp.client\\Arma3\\moderation.css",
+              "ToolTip": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\Arma3\\moderation.css",
+              "RelativeToolTip": "tomorrowslivingasp.client\\Arma3\\moderation.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-25T13:36:54.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

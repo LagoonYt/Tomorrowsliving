@@ -1,0 +1,142 @@
+/* Base Layout */
+body {
+    height: 100%;
+    background: linear-gradient(to bottom, #2c003e, #000000);
+    background-attachment: fixed;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 23px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+nav.container-fluid {
+    color: #fff;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 2rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li a {
+    color: #9df;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease-in-out;
+}
+
+nav ul li a:hover, nav ul li a:focus {
+    color: #cff;
+}
+
+.navbar {
+    border-bottom: 2px solid #222;
+}
+form.grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+    form.grid label, form.grid input {
+        display: block;
+    }
+
+#maxPlayers {
+    width: 44%;
+}
+
+#serverPort {
+    width: 44%;
+    margin-top: 0.4rem;
+    margin-left: 52.5%;
+}
+
+#serverPortName {
+    margin-top: -4.5rem;
+    margin-left: 52.5%;
+}
+
+body {
+    overflow: hidden;
+}
+/* Input Styles */
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+    width: calc(100% - 24px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #333;
+    background: #222;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #0ff;
+}
+
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus {
+    outline: none;
+    box-shadow: 0 0 10px #0ff;
+}
+
+/* Button Styles */
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    background: #005682;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px #0ff;
+    transition: background-color 0.3s;
+    margin-top: 6%;
+}
+
+button:hover {
+    background: #007ba7;
+}
+
+/* Footer styling */
+footer.containerf {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    width: 100%;
+    position: center;
+    bottom: 0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+footer a {
+    color: #bbb;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+footer a:hover, footer a:focus {
+    color: #fff;
+}

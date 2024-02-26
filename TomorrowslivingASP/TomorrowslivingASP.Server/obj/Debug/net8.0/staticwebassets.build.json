@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "2gi99KWGDFU5b1Xsk4bCF9c+l1OGGt8XNClCD54j2/8=",
+  "Source": "TomorrowslivingASP.Server",
+  "BasePath": "_content/TomorrowslivingASP.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Lloyd\\source\\repos\\TomorrowslivingASP\\tomorrowslivingasp.client\\tomorrowslivingasp.client.esproj",
+      "Version": 2,
+      "Source": "tomorrowslivingasp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

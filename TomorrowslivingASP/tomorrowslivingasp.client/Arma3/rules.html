@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/Arma3/rules.css">
+    <title>Server Rules - Tomorrowsliving</title>
+    <script>
+        // Function to get URL parameters
+        function getQueryParam(param) {
+            var searchParams = new URLSearchParams(window.location.search);
+            return searchParams.get(param);
+        }
+
+        // Function to update links with the server name
+        function updateLinks() {
+            var serverName = getQueryParam('serverName');
+            if (serverName) {
+                var links = document.querySelectorAll('nav a');
+                links.forEach(function (link) {
+                    var href = link.getAttribute('href');
+                    if (href) {
+                        var delimiter = href.includes('?') ? '&' : '?';
+                        link.href += delimiter + 'serverName=' + encodeURIComponent(serverName);
+                    }
+                });
+            }
+        }
+
+        // Call updateLinks on page load
+        document.addEventListener('DOMContentLoaded', updateLinks);
+    </script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="container-fluid">
+        <ul>
+            <li><strong><a href="../Home.html">Tomorrowsliving</a></strong></li>
+        </ul>
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/Arma3/settings.html">Server Settings</a></li>
+            <li><a href="/Arma3/controls.html">Server Controls</a></li>
+            <li><a href="/Arma3/rules.html">Server Rules</a></li>
+            <li><a href="/Arma3/modes.html">Game Modes</a></li>
+            <li><a href="/Arma3/mods.html">Mods</a></li>
+            <li><a href="/Arma3/moderation.html">Moderation</a></li>
+        </ul>
+    </nav>
+</body>
+<footer class="container" style="width:100%; position: fixed; bottom: 0;">
+    <small>
+        <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a>
+    </small>
+</footer>

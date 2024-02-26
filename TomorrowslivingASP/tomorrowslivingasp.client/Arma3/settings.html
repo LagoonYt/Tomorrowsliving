@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/Arma3/settings.css">
+    <title>Server Settings - Tomorrowsliving</title>
+    <script>
+        // Function to get URL parameters
+        function getQueryParam(param) {
+            var searchParams = new URLSearchParams(window.location.search);
+            return searchParams.get(param);
+        }
+
+        // Function to update links with the server name
+        function updateLinks() {
+            var serverName = getQueryParam('serverName');
+            if (serverName) {
+                var links = document.querySelectorAll('nav a');
+                links.forEach(function(link) {
+                    var href = link.getAttribute('href');
+                    if (href) {
+                        var delimiter = href.includes('?') ? '&' : '?';
+                        link.href += delimiter + 'serverName=' + encodeURIComponent(serverName);
+                    }
+                });
+            }
+        }
+
+        // Call updateLinks on page load
+        document.addEventListener('DOMContentLoaded', updateLinks);
+    </script>
+    <style>
+
+
+    </style>
+</head>
+<body>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="container-fluid">
+        <ul>
+            <li><strong><a href="../Home.html">Tomorrowsliving</a></strong></li>
+        </ul>
+        <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/Arma3/settings.html">Server Settings</a></li>
+            <li><a href="/Arma3/controls.html">Server Controls</a></li>
+            <li><a href="/Arma3/rules.html">Server Rules</a></li>
+            <li><a href="/Arma3/modes.html">Game Modes</a></li>
+            <li><a href="/Arma3/mods.html">Mods</a></li>
+            <li><a href="/Arma3/moderation.html">Moderation</a></li>
+        </ul>
+    </nav>
+    <!-- Main content for Server Settings -->
+    <main class="container">
+        <div class="grid">
+            <section id="settings">
+                <hgroup>
+                    <h2>Server Settings</h2>
+                    <h3>Customize Your Server</h3>
+                </hgroup>
+                <p>Adjust the settings to tailor your Arma 3 server to your preferences. From basic configurations to advanced settings, ensure the optimal gaming experience for all players.</p>
+                <form class="grid">
+                    <label for="serverName">Server Name</label>
+                    <input type="text" id="serverName" name="serverName" placeholder="Enter Server Display Name" required>
+                    
+                    <label for="serverPassword">Server Password (Optional)</label>
+                    <input type="text" id="serverPassword" name="serverPassword" placeholder="Password">
+
+                    <label for="motd">Message Of The Day (Optional)</label>
+                    <input type="text" id="motd" name="motd" placeholder="Welcome to Tomorrowsliving">
+                    
+                    <label for="maxPlayers">Max Players</label>
+                    <input type="number" id="maxPlayers" name="maxPlayers" placeholder="Maximum Players" required>
+                    
+                    <label id="serverPortName" for="serverPort">Server Port</label>
+                    <input type="number" id="serverPort" name="serverPort" placeholder="2302-2307" required>
+                    
+                    <button type="submit" onclick="event.preventDefault()">Save Settings</button>
+                </form>
+            </section>
+        </div>
+    </main>
+    <!-- Footer -->
+    <footer class="container" style="width:100%; position: fixed; bottom: 0;">
+        <small>
+            <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a>
+        </small>
+    </footer>
+</body>
+</html>
